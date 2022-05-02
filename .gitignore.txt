@@ -1,5 +1,0 @@
-ThirdPerson/
-ThirdPersonBP/
-ModularNeighborhood/
-Downtown_West/
-*_BuiltData.uasset
