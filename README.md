@@ -3,6 +3,15 @@
 
 경희대학교 2022년 1학기 소융캡스톤디자인 프로젝트 결과물입니다.
 
+언리얼엔진 마켓플레이스에서 제공하는 무료 에셋
+
+downtown west modular pack 
+
+modluar neighborhood pack
+
+을 받으셔야 정상 작동 가능합니다.
+
+
 ---
 
 # 1. 과제 개요
