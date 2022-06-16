@@ -48,7 +48,7 @@
 
 Ue4의 vehicle blueprint를 참조하여 구성하였다.
 
- ![image](https://user-images.githubusercontent.com/49023772/173985137-fd23b2df-ae72-493e-9ffe-08a12237a3cf.png)
+![image](https://user-images.githubusercontent.com/49023772/173986250-8077d4ad-985f-4196-a711-aa942298d231.png)
 
 Legality 변수에 따라 Stop 함수, ChangeSpeed 함수를 확률적으로 무시할 수 있다. 이는 불법운전자들이 신호등이나 교통표지판의 정지/감속 신호를 종종 무시한다는 점에서 착안하였다.
 
