@@ -7,7 +7,7 @@
 
 downtown west modular pack 
 
-modluar neighborhood pack
+modular neighborhood pack
 
 을 받으셔야 정상 작동 가능합니다.
 
